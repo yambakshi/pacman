@@ -1,0 +1,168 @@
+﻿Build started 03/03/2014 01:57:02.
+     1>Project "D:\ים המלך\VS2010 Projects\C++ Projects\DirectX 9\Pacman\Pacman\Pacman.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Pacman.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CageEnemy.cpp DXDevice.cpp Enemy.cpp Food.cpp Main.cpp Maze.cpp MyRect.cpp Numbers.cpp Pacman.cpp PacmanGame.cpp S.cpp Window.cpp
+         Window.cpp
+         S.cpp
+         PacmanGame.cpp
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacmangame.cpp(105): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacmangame.cpp(106): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacmangame.cpp(106): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacmangame.cpp(113): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacmangame.cpp(113): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacmangame.cpp(116): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacmangame.cpp(116): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacmangame.cpp(126): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacmangame.cpp(126): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacmangame.cpp(127): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacmangame.cpp(127): warning C4305: 'argument' : truncation from 'double' to 'FLOAT'
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacmangame.cpp(147): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacmangame.cpp(147): warning C4244: 'argument' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacmangame.cpp(222): warning C4101: 'desc' : unreferenced local variable
+         Pacman.cpp
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(21): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(21): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(26): warning C4244: 'initializing' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(27): warning C4244: 'initializing' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(151): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(165): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(180): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(193): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(207): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(256): warning C4244: 'argument' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(265): warning C4244: 'argument' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(293): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(308): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(321): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(333): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(374): warning C4244: 'argument' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(383): warning C4244: 'argument' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(411): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(426): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(439): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(481): warning C4244: 'argument' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(490): warning C4244: 'argument' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(505): warning C4244: '=' : conversion from 'const double' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(507): warning C4244: '=' : conversion from 'const double' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(522): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(537): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(550): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(592): warning C4244: 'argument' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(601): warning C4244: 'argument' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(617): warning C4244: '=' : conversion from 'const double' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(619): warning C4244: '=' : conversion from 'const double' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(719): warning C4244: '=' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(720): warning C4244: '=' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(726): warning C4244: '=' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(727): warning C4244: '=' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(731): warning C4244: '=' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\pacman.cpp(732): warning C4244: '=' : conversion from 'float' to 'short', possible loss of data
+         Numbers.cpp
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\numbers.cpp(47): warning C4244: '=' : conversion from 'float' to 'short', possible loss of data
+         MyRect.cpp
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\myrect.cpp(17): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\myrect.cpp(19): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\myrect.cpp(19): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\myrect.cpp(20): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\myrect.cpp(45): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\myrect.cpp(47): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\myrect.cpp(47): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\myrect.cpp(48): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\myrect.cpp(69): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\myrect.cpp(71): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\myrect.cpp(71): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\myrect.cpp(72): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\myrect.cpp(82): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\myrect.cpp(84): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\myrect.cpp(84): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\myrect.cpp(85): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         Maze.cpp
+         Main.cpp
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\main.cpp(26): warning C4244: 'initializing' : conversion from 'double' to 'const short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\main.cpp(27): warning C4244: 'initializing' : conversion from 'double' to 'const short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\main.cpp(42): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         Food.cpp
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\food.cpp(163): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\food.cpp(164): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\food.cpp(180): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\food.cpp(181): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+         Enemy.cpp
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(63): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(63): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(83): warning C4244: 'initializing' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(84): warning C4244: 'initializing' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(93): warning C4244: '=' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(94): warning C4244: '=' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(244): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(254): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(418): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(544): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(837): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(851): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(866): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(879): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(893): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(936): warning C4244: 'argument' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(944): warning C4244: 'argument' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(964): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(979): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(992): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(1004): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(1042): warning C4244: 'argument' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(1050): warning C4244: 'argument' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(1070): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(1085): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(1098): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(1138): warning C4244: 'argument' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(1146): warning C4244: 'argument' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(1166): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(1181): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(1194): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(1234): warning C4244: 'argument' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\enemy.cpp(1242): warning C4244: 'argument' : conversion from 'float' to 'short', possible loss of data
+         DXDevice.cpp
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\dxdevice.cpp(3): warning C4114: same type qualifier used more than once
+         CageEnemy.cpp
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\cageenemy.cpp(24): warning C4244: 'argument' : conversion from 'int' to 'FLOAT', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\cageenemy.cpp(100): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\cageenemy.cpp(115): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\cageenemy.cpp(139): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\cageenemy.cpp(150): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\cageenemy.cpp(163): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\cageenemy.cpp(188): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\cageenemy.cpp(189): warning C4244: '=' : conversion from 'float' to 'short', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\cageenemy.cpp(200): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ים המלך\vs2010 projects\c++ projects\directx 9\pacman c++\pacman c++\cageenemy.cpp(201): warning C4244: '=' : conversion from 'float' to 'short', possible loss of data
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Pacman.exe.embed.manifest.res" "Debug\Pacman_manifest.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ים המלך\VS2010 Projects\C++ Projects\DirectX 9\Pacman\Debug\Pacman.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib d3dx9.lib d3d9.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Pacman.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\ים המלך\VS2010 Projects\C++ Projects\DirectX 9\Pacman\Debug\Pacman.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ים המלך\VS2010 Projects\C++ Projects\DirectX 9\Pacman\Debug\Pacman.lib" /MACHINE:X86 "Debug\Pacman.exe.embed.manifest.res"
+         Debug\CageEnemy.obj
+         Debug\DXDevice.obj
+         Debug\Enemy.obj
+         Debug\Food.obj
+         Debug\Main.obj
+         Debug\Maze.obj
+         Debug\MyRect.obj
+         Debug\Numbers.obj
+         Debug\Pacman.obj
+         Debug\PacmanGame.obj
+         Debug\S.obj
+         Debug\Window.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Pacman.exe.embed.manifest" /manifest "Debug\Pacman.exe.intermediate.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Pacman.vcxproj -> D:\ים המלך\VS2010 Projects\C++ Projects\DirectX 9\Pacman\Debug\Pacman.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Pacman.unsuccessfulbuild".
+         Touching "Debug\Pacman.lastbuildstate".
+     1>Done Building Project "D:\ים המלך\VS2010 Projects\C++ Projects\DirectX 9\Pacman\Pacman\Pacman.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:14.42
